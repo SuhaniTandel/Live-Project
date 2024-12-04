@@ -1,0 +1,20 @@
+# VS Code specific
+.vscode/
+.git/config
+
+# System files
+node_modules/
+npm-debug.log*
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Local configuration
+.eslintcache
